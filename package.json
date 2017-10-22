@@ -44,6 +44,9 @@
 		"xo": "*"
 	},
 	"xo": {
+		"rules": {
+			"eol-last": ["error", "never"]
+		},
 		"ignores": [
 			"index.js"
 		]
